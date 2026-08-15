@@ -1,9 +1,7 @@
 # pair-extraordinary
 
 - 1st commit list is create for contribution
-- 2nd commit list is the attaching some imp file
-- 3rd commit list is the changing file
-- 4th commit list is the check
-- 5th commit list is the previrew
+- 2nd commit list is the check and changing 
+ 
 
  
