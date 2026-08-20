@@ -4,7 +4,8 @@
 - 2nd commit list is the check and changing
 - 3rd commit list is the changes
 - 4th commit list is the preview
-- 5th commit list is the check and changes 
+- 5th commit list is the check and changes
+- 6th commit lsit is the final changes 
  
 
  
