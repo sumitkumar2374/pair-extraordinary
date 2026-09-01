@@ -2,13 +2,7 @@
 
 - 1st/2nd commit list is the attaching some imp file in main
 - 3rd commit list to check file in main
-- 4th commit list is the preview
-- 1st commit list is attach for today contribution graph
-- 2nd commit list is the ```url``` attach
-- 3rd commit list is the create new branch and separate files
-- 4th commit list is the changes in new branches for contribution
-- 5th commit list is the check and preview
-- 6th commit list for pull and request section 
+- 4th commit list is the discussion 
 
 # pair-extraordinary
 
