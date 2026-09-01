@@ -3,8 +3,7 @@
 - 1st/2nd commit list is the attaching some imp file in main
 - 3rd commit list to check file in main
 - 4th commit list is the discussion
-- 5th commit list is the check and changes
-- 6th commit list is the finale changes 
+- 5th commit list is the create pr and work 
 
 # pair-extraordinary
 
