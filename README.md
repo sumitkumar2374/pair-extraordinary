@@ -2,7 +2,8 @@
 
 - 1st/2nd commit list is the attaching some imp file in main
 - 3rd commit list to check file in main
-- 4th commit list is the preview 
+- 4th commit list is the preview
+- 1st commit list is attach for today contribution graph
 
 # pair-extraordinary
 
