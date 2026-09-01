@@ -7,6 +7,7 @@
 - 2nd commit list is the ```url``` attach
 - 3rd commit list is the create new branch and separate files
 - 4th commit list is the changes in new branches for contribution
+- 5th commit list is the check and preview 
 
 # pair-extraordinary
 
