@@ -5,7 +5,8 @@
 - 4th commit list is the preview
 - 1st commit list is attach for today contribution graph
 - 2nd commit list is the ```url``` attach
-- 3rd commit list is the create new branch and separate files 
+- 3rd commit list is the create new branch and separate files
+- 4th commit list is the changes in new branches for contribution
 
 # pair-extraordinary
 
