@@ -2,7 +2,8 @@
 
 ## Here is the commit list is for contribution graph 
 
-- 1st/2nd commit 
+- 1st/2nd commit
+- 3rd commit list is the attaching some imp file 
 
 # pair-extraordinary
 
